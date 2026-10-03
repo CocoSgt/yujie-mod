@@ -1,0 +1,13 @@
+{
+  "name": "yujie-mods",
+  "description": "雨姐陪你写代码：一个 Claude Code Mod 示例",
+  "owner": {
+    "name": "De"
+  },
+  "plugins": [
+    {
+      "name": "yujie",
+      "source": "./"
+    }
+  ]
+}

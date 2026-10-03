@@ -1,0 +1,8 @@
+{
+  "name": "yujie",
+  "displayName": "雨姐陪你写代码",
+  "version": "0.1.0",
+  "description": "雨姐陪你写代码：像素工位面板、状态栏、提示条，报错会黑脸，rm -rf 会被拦下，还能开东北话唠嗑模式",
+  "author": { "name": "De" },
+  "types": "./types/index.d.ts"
+}
